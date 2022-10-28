@@ -1,0 +1,1 @@
+export { default as LocomotiveTable } from './LocomotiveTable/LocomotiveTable';

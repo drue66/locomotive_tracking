@@ -1,0 +1,7 @@
+.description__title {
+  font-weight: bold;
+}
+
+.description__title:after {
+  content: ': ';
+}
